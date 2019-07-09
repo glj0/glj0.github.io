@@ -1,8 +1,11 @@
 
-.heroimage{ 
+body{ 
 
-	background-image: url(images/rosaparks.png);
-	padding: 50px;
+	background: url(images/rosaparks.png);
+	padding: 68px;
+	background-position: center;
+	
 
 
 }
+

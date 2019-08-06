@@ -1,0 +1,33 @@
+@import url
+('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+
+
+
+
+nav{
+	font-size: 1em
+	padding-right: 50em;
+	color:#232420;
+	background-color: 
+
+}
+img {
+  width: 50%;
+  margin: 0 auto;
+}
+
+body{ 
+	font-family: 'Source Sans Pro', Arial, sans-serif;
+	padding: 68px;
+	color: #222222;
+	line-height: 2em;
+}
+.newseries{ width: 20em;
+
+
+}
+
+.stories{
+	background-color: grey;
+}

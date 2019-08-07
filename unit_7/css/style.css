@@ -1,0 +1,49 @@
+@import url
+('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+
+
+
+
+img {
+  width: 50%;
+  margin: 0 auto;
+}
+
+body{ 
+	font-family: 'Source Sans Pro', Arial, sans-serif;
+	padding: 68px;
+	
+	line-height: 2em;
+}
+.newseries{ width: 20em;
+
+
+}
+
+.feature{width:60em;
+	float: right;
+	display: block;
+
+}
+
+.popular{
+	width: 20em;
+}
+nav{
+	font-size: 1em
+	padding-right: 50em;
+	color:#232420;
+	
+  	list-style-type: none;
+  	margin: 0;
+ 	 padding: 1em;
+ 	 overflow: hidden;
+  	background-color: #333333
+
+}
+
+h1, h2, h3, h4{
+font-weight: 400;
+}
+

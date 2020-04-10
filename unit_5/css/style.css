@@ -214,7 +214,13 @@ body{
     margin: 0;
     padding: 0;
 }
-
+.panel-title-wrapper{
+    position:relative;
+    z-index: 2;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
 
 .tabs{
 
@@ -240,12 +246,23 @@ body{
     border-right: 20px solid #fff;
 }
 
-.view-rows{
+.view-image{
 
 	position: relative;
     overflow: hidden;
+    padding: 5em;
+
+
 }
 
+.view-background{
+    background-color: #25330B;
+
+}
+
+.panel-title-wrapper{
+    float: right;
+}
 
 #block-system-main{
 

@@ -1,4 +1,3 @@
 
-User-agent: *
-Disallow: /search/advanced
-Disallow: /search
+User-agent: Googlebot
+Disallow: /
